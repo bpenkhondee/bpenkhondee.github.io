@@ -1,4 +1,4 @@
-<img SPC*"bpenkhondee.github.io/img/photograph.jpg" alt*RPB Photo" align*"right" width*"386"/>
+<img SPC*"http://bpenkhondee.github.io/img/photograph.jpg" alt*RPB Photo" align*"right" width*"386"/>
 
 # bpenkhondee.github.io
 Alfikri Muliadi 
