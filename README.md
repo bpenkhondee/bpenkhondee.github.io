@@ -10,7 +10,7 @@ Experience
 
 -Content Writer, Jakarta (2023 - present)
 
-ASEAN Youth Organisation
+ASEAN Youth Organisation 
 * Creatively craft the words through the article to be published
 * Empowering the words and representing the organisation to potential community or youth-led initiative to collaborate
 
